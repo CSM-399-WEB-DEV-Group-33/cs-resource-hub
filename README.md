@@ -96,15 +96,15 @@ cs-resource-hub/
 
 | Member | Assigned Role | GitHub Handle | Core Responsibilities |
 | :--- | :--- | :--- | :--- |
-| **Kekeli Gideon Dogbey** | Project Manager (PM) | *Pending* | Team coordination, deadlines, weekly instructor updates, documentation |
+| **Gideon Kekeli Dogbey** | Project Manager (PM) | *Pending* | Team coordination, deadlines, weekly instructor updates, documentation |
 | **Caleb Kwaku Aheto** | Front-End Developer | `@Caleb-Aheto` | UI architecture, React components, state management, repo setup |
-| **Isaac Nicholas Yeboah** | Front-End Developer | `@inknick10` | Responsive layouts, Bootstrap/SASS integration, page views |
-| **Ahmed Ibrahim Yenduupaab** | Front-End Developer | `@Ahmadeed-cyber` | Interactive forms, filtering, React Router & Context integration |
-| **Anim-Awuah Gideon Peasah** | Back-End Developer | `@GideonAwuah` | JSON Server mock API, `db.json` schema, data seeding & CRUD routes |
-| **Mansura Is-Haq Naamuleh** | Back-End Developer | *Pending* | API integration helpers, submission queue logic, data validation |
-| **Raina Pryce Aye-Kumi** | UI/UX Designer | `@rainapryce4-source` | Wireframes, mockups, color palette, typography, navigation flow |
-| **Abu-Bonsra Forson Benedictus** | Quality Assurance (QA) | `@beeff-Jeff-Epstein` | Functional & cross-browser testing, responsiveness checks, bug log |
-| **Simeon Ose** | Quality Assurance (QA) | `@Artemisura` | Accessibility audits, edge-case testing, peer review verification |
+| **Isaac Nicholas Kwasi Yeboah** | Front-End Developer | `@inknick10` | Responsive layouts, Bootstrap/SASS integration, page views |
+| **Ahmed Yenduupaab Ibrahim** | Front-End Developer | `@Ahmadeed-cyber` | Interactive forms, filtering, React Router & Context integration |
+| **Gideon Peasah Anim-Awuah** | Back-End Developer | `@GideonAwuah` | JSON Server mock API, `db.json` schema, data seeding & CRUD routes |
+| **Mansura Is-Haq Naamuleh** | Back-End Developer | `@Artemisura` | API integration helpers, submission queue logic, data validation |
+| **Raina-Pryce Aye-Kumi** | UI/UX Designer | `@rainapryce4-source` | Wireframes, mockups, color palette, typography, navigation flow |
+| **Forson Benedictus Abu-Bonsra** | Quality Assurance (QA) | `@beeff-Jeff-Epstein` | Functional & cross-browser testing, responsiveness checks, bug log |
+| **Simeon Kwaku Osei** | Quality Assurance (QA) | `@shadowcode-x3` | Accessibility audits, edge-case testing, peer review verification |
 
 ---
 
